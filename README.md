@@ -1,13 +1,13 @@
-This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with `[create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)`.
+This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with `create-next-app`.
 
 ## Getting Started
 
 To use this boilerplate as a starter project for your [Next.js](https://nextjs.org/) apps, run:
 
 ```
-npm run dev -e https://github.com/douglaslb/boilerplate-nextjs
+npm create-next-app -e https://github.com/douglaslb/boilerplate-nextjs
 # or
-yarn dev -e https://github.com/douglaslb/boilerplate-nextjs
+yarn create next-app -e https://github.com/douglaslb/boilerplate-nextjs
 
 ```
 
