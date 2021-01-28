@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with `create-n
 To use this boilerplate as a starter project for your [Next.js](https://nextjs.org/) apps, run:
 
 ```
-npm create-next-app -e https://github.com/douglaslb/boilerplate-nextjs
+npx create-next-app -e https://github.com/douglaslb/boilerplate-nextjs
 # or
 yarn create next-app -e https://github.com/douglaslb/boilerplate-nextjs
 ```
