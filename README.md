@@ -8,7 +8,6 @@ To use this boilerplate as a starter project for your [Next.js](https://nextjs.o
 npm create-next-app -e https://github.com/douglaslb/boilerplate-nextjs
 # or
 yarn create next-app -e https://github.com/douglaslb/boilerplate-nextjs
-
 ```
 
 Open [http://localhost:3000](http://localhost:3000/) with your browser to see the result.
