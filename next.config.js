@@ -5,6 +5,7 @@ const isProd = process.env.NODE_ENV === 'production'
 
 module.exports = withPWA({
   reactStrictMode: true,
+  swcMinifier: true,
   compiler: {
     styledComponents: true
   },
